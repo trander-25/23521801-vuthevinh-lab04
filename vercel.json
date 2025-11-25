@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd capstone_proj && npm install && npm run build",
+  "outputDirectory": "capstone_proj/dist",
+  "installCommand": "cd capstone_proj && npm install",
+  "framework": null
+}
